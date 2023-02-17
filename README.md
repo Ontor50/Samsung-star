@@ -1,0 +1,2 @@
+# Samsung-star
+untrusted app
